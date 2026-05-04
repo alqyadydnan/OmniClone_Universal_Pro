@@ -1,0 +1,17 @@
+# OmniClone Universal Pro — Python Dependencies
+# Install on the BUILD machine (Windows) before running PyInstaller:
+#   pip install -r requirements.txt
+
+# GUI framework
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+PyQt6-sip>=13.6.0
+
+# Compression (block-level transfer)
+lz4>=4.3.2
+
+# Packaging (build only — not included in EXE)
+pyinstaller>=6.3.0
+
+# Optional: faster MD5 (falls back to hashlib if not installed)
+# pymmh3>=0.0.5
