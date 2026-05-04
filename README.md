@@ -13,6 +13,14 @@
   <img src="Screenshot 2026-05-04 212920.png" alt="OmniClone Universal Pro Interface" width="850"/>
 </p>
 
+<p align="center">
+  <img src="Annotation 2026-05-04 120802.png" alt="OmniClone Universal Pro Interface" width="850"/>
+</p>
+
+<p align="center">
+  <img src="Annotation 2026-05-04 120557.png" alt="OmniClone Universal Pro Interface" width="850"/>
+</p>
+
 ## 📖 Overview
 
 **OmniClone Universal Pro** is a professional, high-end Windows system cloning tool designed for IT engineers and system administrators. It allows you to clone any Windows-based operating system (Windows 7, 8, 10, 11, Server) from one machine to another **directly over Ethernet** — no external drives, no USB hubs, no extra software.
