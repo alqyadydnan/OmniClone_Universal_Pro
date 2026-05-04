@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-04-27 171149.png" alt="OmniClone Universal Pro Interface" width="850"/>
+  <img src="Screenshot 2026-05-04 212920.png" alt="OmniClone Universal Pro Interface" width="850"/>
 </p>
 
 ## 📖 Overview
